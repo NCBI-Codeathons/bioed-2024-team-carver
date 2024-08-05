@@ -1,8 +1,10 @@
 # Team Project Name
 
 List of participants and affiliations:
-- Participant, Affiliation (Team Leader), contact information
-- Participant, Affiliation
+- Jake Zinny, School District of Philadelphia (Team Leader), rzimmy@philasd.org 302-540-2872
+- Brandon Boswell, Broward County Public Schools (Research Specialist)
+- Jennifer Tanner, Affiliation (Research Specialist)
+- Mary Knight, Arlington Public Schools (Writer)
 
 # Project Summary
 Briefly describe the developed curriculum package. Include the target audience (e.g., high school biology students) and highlight the NCBI resources used.
