@@ -1,7 +1,7 @@
 # Team Project Name
 
 List of participants and affiliations:
-- Jake Zinny, School District of Philadelphia (Team Leader), rzimmy@philasd.org 302-540-2872
+- Jake Zimny, School District of Philadelphia (Team Leader), rzimmy@philasd.org 302-540-2872
 - Brandon Boswell, Broward County Public Schools (Research Specialist)
 - Jennifer Tanner, Affiliation (Research Specialist)
 - Mary Knight, Arlington Public Schools (Writer)
