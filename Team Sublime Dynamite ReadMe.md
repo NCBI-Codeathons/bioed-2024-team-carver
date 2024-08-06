@@ -8,7 +8,8 @@
 
 # $\color{NavyBlue}{Project\ Summary}$
 - The goal of the curriculum package is to provide a more accessible, authentic experience with actual genetic data. 
-- Target Audience:\ High School - both AP and 9th/10th grade biology students\
+- Target Audience:\
+  High School - both AP and 9th/10th grade biology students
 - Currently, we are developing 2 lesson plans:
 - For AP Biology, the content used/learned: comparative genetics across species and evolutionary relationships
 - For 9th/10th Grade Biology, the content used/learned: comparative genetics within humans and understanding/describing how variations and mutations affect function, and then apply this knowledge to sample clinical cases
