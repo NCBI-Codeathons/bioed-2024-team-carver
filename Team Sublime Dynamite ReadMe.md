@@ -34,7 +34,7 @@
 - MedGen
 
 # $\color{Purple}{Learning\ Objectives:}$
-<h3>Heading 3</h3> $\color{Purple}{Students\ Will\ Be\ Able\ To:}$
+$\color{Purple}{Students\ Will\ Be\ Able\ To:}$
 
 # Lesson 1 (AP):
 ~identify differences in nucleotide sequences between different species\
