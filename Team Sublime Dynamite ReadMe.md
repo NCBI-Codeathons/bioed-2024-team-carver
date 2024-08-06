@@ -33,7 +33,7 @@
 - Blast
 - MedGen
 
-# $\color{Purple}{Curricular\ Package\ Details\ and\ Learning\ Objectives:}$
+# $\color{Purple}{Learning\ Objectives:}$
 # $\color{Purple}{Students\ Will\ Be\ Able\ To:}$
 
 # Lesson 1 (AP):
