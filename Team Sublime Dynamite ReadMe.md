@@ -13,18 +13,18 @@
 - We are developing two different lesson plans
 - For AP Biology, the content used/learned:\
   Lesson 1: (Can be used instead of "AP Biology Investigative Lab 3: The Blast Lab")\
-  *comparative genetics across species, how those differences affect evolutionary relationships\
+  *comparative genetics across species, how those differences affect evolutionary relationships
 
   Lesson 2: Using NCBI Tools for High School Genetics Investigation\
   *comparative genetics within humans (identifying location of mutations and types of mutations by comparing "wild type" genes with mutated genes)\
   *predicting, describing, and understanding how variations and mutations can affect function\
-  *can be used for review of Central Dogma\
+  *can be used for review of Central Dogma
   
 - For 9th/10th Grade Biology, the content used/learned:\
   Using NCBI Tools for High School Genetics Investigation\
   *comparative genetics within humans (identifying location of mutations and types of mutations by comparing "wild type" genes with mutated genes)\
   *predicting, describing, and understanding how variations and mutations can affect function\
-  *can be used for review of Central Dogma\
+  *can be used for review of Central Dogma
 
   
 # $\color{JungleGreen}{NCBI\ Resources:}$
