@@ -29,6 +29,9 @@
 
   
 # $\color{JungleGreen}{NCBI\ Resources:}$
+- Clinvar (teacher only)
+- Blast
+- MedGen
 
 # $\color{Purple}{Curricular\ Package\ Details}$
 
