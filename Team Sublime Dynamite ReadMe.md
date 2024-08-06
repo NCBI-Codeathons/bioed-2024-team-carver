@@ -35,7 +35,7 @@
 
 # $\color{Purple}{Curricular\ Package\ Details\ and\ Learning\ Objectives:}$
 
-# <ins>$\color{Purple}{Students\ Will\ Be\ Able\ To:}$</ins>
+# $\color{Purple}{<ins>Students\ Will\ Be\ Able\ To:<ins>}$<ins>
 
 # Lesson 1 (AP):
 ~identify differences in nucleotide sequences between different species\
