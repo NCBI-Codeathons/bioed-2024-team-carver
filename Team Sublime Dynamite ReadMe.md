@@ -31,8 +31,8 @@
 # $\color{JungleGreen}{NCBI\ Resources:}$
 
 # $\color{Purple}{Curricular\ Package\ Details}$
-<p align="center">
-<ins>Students will be able to:</ins>\
+<p align="center"><ins>Students will be able to:</ins>\
+
 # Lesson 1 (AP):\
 ~identify differences in nucleotide sequences between different species\
 ~predict with reasonable (will depend on level of student and prior teaching) accuracy the impact of the differences on the phylogenetic tree\
