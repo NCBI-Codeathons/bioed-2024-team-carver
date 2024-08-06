@@ -10,11 +10,18 @@
 - The goal of the curriculum package is to provide a more accessible, authentic experience with actual genetic data. 
 - Target Audience:\
   High School - both AP and 9th/10th grade biology students
-- Currently, we are developing 2 lesson plans:
-- For AP Biology, the content used/learned: comparative genetics across species and evolutionary relationships
-- For 9th/10th Grade Biology, the content used/learned: comparative genetics within humans and understanding/describing how variations and mutations affect function, and then apply this knowledge to sample clinical cases
-
-NCBI Resources:
+  
+- We are developing two different lesson plans
+- For AP Biology, the content used/learned:\
+  Lesson 1: (Can be used instead of "AP Biology Investigative Lab 3: The Blast Lab")\
+  comparative genetics across species, how those differences affect evolutionary relationships\
+  
+- For 9th/10th Grade Biology, the content used/learned:\
+  comparative genetics within humans (identifying location of mutations and types of mutations by comparing "wild type" genes with mutated genes)\
+  predicting, describing, and understanding how variations and mutations can affect function\
+  can be used for review of Central Dogma\
+  
+# NCBI Resources:
 
 # Curricular Package Details
 List the specific learning goals students will achieve with this curriculum.
