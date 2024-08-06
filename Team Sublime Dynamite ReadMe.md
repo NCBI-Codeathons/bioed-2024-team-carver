@@ -31,7 +31,8 @@
 # $\color{JungleGreen}{NCBI\ Resources:}$
 
 # $\color{Purple}{Curricular\ Package\ Details}$
-# <p align="center"> $\color{Purple}{<ins>Students\ Will\ Be\ Able\ To:</ins>}$
+
+# <p align="center"> <ins>Students Will Be Able To:</ins>
 
 # Lesson 1 (AP):
 ~identify differences in nucleotide sequences between different species\
