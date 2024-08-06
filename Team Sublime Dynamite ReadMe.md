@@ -1,4 +1,4 @@
-# $\color{Red}{Sublime\Dynamite\(\High\School\Biology\)}$ 
+# $\color{Red}{Sublime\Dynamite\(High\School\Biology)}$ 
 
 List of participants and affiliations:
 - Jake Zimny, School District of Philadelphia (Team Leader), rzimmy@philasd.org 302-540-2872
