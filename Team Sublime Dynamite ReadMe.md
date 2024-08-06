@@ -20,8 +20,9 @@
   comparative genetics within humans (identifying location of mutations and types of mutations by comparing "wild type" genes with mutated genes)\
   predicting, describing, and understanding how variations and mutations can affect function\
   can be used for review of Central Dogma\
+
   
-# NCBI Resources:
+# $\color{JungleGreen}{NCBI\ Resources:}$
 
 # Curricular Package Details
 List the specific learning goals students will achieve with this curriculum.
