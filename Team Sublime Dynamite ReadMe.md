@@ -33,7 +33,7 @@
 - Blast
 - MedGen
 
-# $\color{Purple}{Curricular\ Package\ Details}$
+# $\color{Purple}{Curricular\ Package\ Details\ & Learning\ Objectives}$
 
 # <p align="center"> <ins>Students Will Be Able To:</ins>
 
@@ -56,10 +56,6 @@
 ~identify the type of mutation present in the genetic sequence\
 ~predict impact of mutation &/or variation on function of resulting protein\
 ~use genetic sequences to produce mRNA sequences and resulting amino acid sequences\
-
-
-## Learning Objectives
-List the specific learning objectives students will achieve with this curriculum.
 
 ## Course Materials
 Specify the resources developed, including lesson plans, activities, worksheets, presentations, etc. List file names, including file formats (e.g., .docx, .pdf).
