@@ -30,8 +30,29 @@
   
 # $\color{JungleGreen}{NCBI\ Resources:}$
 
-# Curricular Package Details
-List the specific learning goals students will achieve with this curriculum.
+# $\color{Purple}{Curricular\ Package\ Details}$
+<p align="center">
+<ins>Students will be able to:</ins>\
+# Lesson 1 (AP):\
+~identify differences in nucleotide sequences between different species\
+~predict with reasonable (will depend on level of student and prior teaching) accuracy the impact of the differences on the phylogenetic tree\
+\
+# Lesson 2 (AP):\
+~find nucleotide region with differences using NBCI resources\
+~identify differences in nucleotides (between wild type and mutated option)\
+~identify the type of mutation present in the genetic sequence\
+~predict impact of mutation &/or variation on function of resulting protein\
+~use genetic sequences to produce mRNA sequences and resulting amino acid sequences (at AP level, discuss introns/exons and use NCBI resources to determine final mRNA sequence)\
+~use NCBI resources to produce a 3D structure of the proteins\
+~use the information gleaned from comparing the genetic sequences to analyze sample clinical cases and identify potential causes of symptoms in patients
+\
+# 9th/10th Grade Biology\
+~find nucleotide region with differences using NBCI resources\
+~identify differences in nucleotides (between wild type and mutated option)\
+~identify the type of mutation present in the genetic sequence\
+~predict impact of mutation &/or variation on function of resulting protein\
+~use genetic sequences to produce mRNA sequences and resulting amino acid sequences\
+
 
 ## Learning Objectives
 List the specific learning objectives students will achieve with this curriculum.
