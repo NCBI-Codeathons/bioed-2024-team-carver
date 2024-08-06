@@ -33,7 +33,7 @@
 - Blast
 - MedGen
 
-# $\color{Purple}{Curricular\ Package\ Details\ & Learning\ Objectives}$
+# $\color{Purple}{Curricular\ Package\ Details\ and\ Learning\ Objectives}$
 
 # <p align="center"> <ins>Students Will Be Able To:</ins>
 
