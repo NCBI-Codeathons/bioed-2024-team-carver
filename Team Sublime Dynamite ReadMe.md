@@ -6,7 +6,7 @@
 - Jennifer Tanner, Affiliation (Research Specialist)
 - Mary Knight, Arlington Public Schools (Writer)
 
-# Project Summary
+# $\color{NavyBlue}{Project\ Summary}$
 - The goal of the curriculum package is to provide a more accessible, authentic experience with actual genetic data. 
 - Target Audience: High School - both AP and 9th/10th grade biology students
 - Currently, we are developing 2 lesson plans:
