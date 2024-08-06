@@ -36,11 +36,11 @@
 # $\color{Purple}{Learning\ Objectives:}$
 <h3>$\color{Purple}{Students\ Will\ Be\ Able\ To:}$ </h3>
 
-<ins>Lesson 1 (AP):</ins>
+<ins>Lesson 1 (AP):</ins>\
 ~identify differences in nucleotide sequences between different species\
 ~predict with reasonable (will depend on level of student and prior teaching) accuracy the impact of the differences on the phylogenetic tree
 
-<ins>Lesson 2 (AP):</ins>
+<ins>Lesson 2 (AP):</ins>\
 ~find nucleotide region with differences using NBCI resources\
 ~identify differences in nucleotides (between wild type and mutated option)\
 ~identify the type of mutation present in the genetic sequence\
@@ -49,7 +49,7 @@
 ~use NCBI resources to produce a 3D structure of the proteins\
 ~use the information gleaned from comparing the genetic sequences to analyze sample clinical cases and identify potential causes of symptoms in patients
 
-<ins>9th/10th Grade Biology</ins>
+<ins>9th/10th Grade Biology</ins>\
 ~find nucleotide region with differences using NBCI resources\
 ~identify differences in nucleotides (between wild type and mutated option)\
 ~identify the type of mutation present in the genetic sequence\
