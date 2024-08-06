@@ -57,10 +57,10 @@
 ~use genetic sequences to produce mRNA sequences and resulting amino acid sequences\
 
 ## Course Materials
-Specify the resources developed, including lesson plans, activities, worksheets, presentations, etc. List file names, including file formats (e.g., .docx, .pdf).
+In progress
 
 ## Assessments
-Explain how student learning will be evaluated (e.g., quizzes, assignments, projects).
+In progress
 
 ## Future Work
 Optional section. Briefly mention any potential future development plans for the curriculum package.
