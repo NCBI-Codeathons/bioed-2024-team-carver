@@ -3,7 +3,6 @@
 # $\color{NavyBlue}{Group\ Members}$
 - Jake Zimny, School District of Philadelphia (Team Leader), rzimmy@philasd.org 302-540-2872
 - Brandon Boswell, Broward County Public Schools (Research Specialist)
-- Jennifer Tanner, Affiliation (Research Specialist)
 - Mary Knight, Arlington Public Schools (Writer)
 
 # $\color{NavyBlue}{Project\ Summary}$
