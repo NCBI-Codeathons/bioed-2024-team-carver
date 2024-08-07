@@ -59,9 +59,10 @@
 $\color{Aquamarine}{Example\ of\ the\ database\ (HBB\ sequence\ separated\ into\ codons):}$
 ![image](https://github.com/user-attachments/assets/bf3059f5-d332-4a98-8a47-fa72dab62a7d)
 
-# $\color{Cerulean}{Assessments:}$\
-Coming soon!\
-# $\color{ProcessBlue}{Future\ Work:}$\
+# $\color{Cerulean}{Assessments:}$
+Coming soon!
+
+# $\color{ProcessBlue}{Future\ Work:}$
 Once we complete the lesson plans outlined above, along with all of the related documents, we will determine whether or not there will be further updates. However, we have uploaded the documents in formats that can be downloaded and edited. 
 
 # NCBI Codeathon Disclaimer
