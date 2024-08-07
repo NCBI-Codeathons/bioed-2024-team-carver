@@ -60,7 +60,7 @@ $\color{Aquamarine}{Example\ of\ the\ database\ (HBB\ sequence\ separated\ into\
 ![image](https://github.com/user-attachments/assets/bf3059f5-d332-4a98-8a47-fa72dab62a7d)
 
 
-## Assessments
+# $\color{Cerulean}{Assessments:}$
 In progress
 
 ## Future Work
