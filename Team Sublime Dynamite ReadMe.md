@@ -59,12 +59,11 @@
 $\color{Aquamarine}{Example\ of\ the\ database\ (HBB\ sequence\ separated\ into\ codons):}$
 ![image](https://github.com/user-attachments/assets/bf3059f5-d332-4a98-8a47-fa72dab62a7d)
 
-
 # $\color{Cerulean}{Assessments:}$
-In progress
+Coming soon!
 
-## Future Work
-Optional section. Briefly mention any potential future development plans for the curriculum package.
+# $\color{ProcessBlue}{Future\ Work:}$
+Once we complete the lesson plans outlined above, along with all of the related documents, we will determine whether or not there will be further updates. However, we have uploaded the documents in formats that can be downloaded and edited. 
 
 # NCBI Codeathon Disclaimer
 This project was created as part of the BioEd Summit Curricula-thon, a week-long event focused on collaborative development of data-driven learning experiences. While we encourage you to explore and adapt this project, please be aware that NCBI does not provide ongoing support for it.
