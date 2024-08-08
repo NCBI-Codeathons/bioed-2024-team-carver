@@ -57,9 +57,9 @@
 
 # $\color{Aquamarine}{Course\ Materials}$
 Prior to starting the assignment,at any level, teachers can show this 50 second video that shows what happens to hemoglobin when the Sickle Cell mutation is present:\
-[WEHI TV: Hemoglobin & Sickle Cell Anemia](https://www.wehi.edu.au/wehi-tv/haemoglobin-and-sickle-cell-anaemia/)\
+[WEHI TV: Hemoglobin & Sickle Cell Anemia](https://www.wehi.edu.au/wehi-tv/haemoglobin-and-sickle-cell-anaemia/)
 
-This video provides some insight into the symptoms of Sickle Cell Disease, as well as the possibility for a treatment based on a mutation in a second gene (fetal hemoglobin)
+This video provides some insight into the symptoms of Sickle Cell Disease, as well as the possibility for a treatment based on a mutation in a second gene (fetal hemoglobin):\
 [HHMI Biointeractive Video: A Genetic Treatment for Sickle Cell Disease](https://www.biointeractive.org/classroom-resources/genetic-treatment-sickle-cell-disease)
 
 # $\color{Cerulean}{Assessments:}$
