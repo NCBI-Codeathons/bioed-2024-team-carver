@@ -63,7 +63,7 @@ This video provides some insight into the symptoms of Sickle Cell Disease, as we
 [HHMI Biointeractive Video: A Genetic Treatment for Sickle Cell Disease](https://www.biointeractive.org/classroom-resources/genetic-treatment-sickle-cell-disease)
 
 # $\color{Cerulean}{Assessments:}$
-Coming soon!
+The assignment itself is essentially an assessment - if a student can complete the assignment, then the student is demontrating that he/she/they know how to transcribe and translate a DNA sequence. Additionally, they show proficiency in using a codon chart. Finally, the student is demonstrating that he/she/they know and can apply the knowledge of the different types of mutations found in DNA sequences, as well the basic impact of each of those mutations.
 
 # $\color{ProcessBlue}{Future\ Work:}$
 Once we complete the lesson plans outlined above, along with all of the related documents, we will determine whether or not there will be further updates. However, we have uploaded the documents in formats that can be downloaded and edited. 
