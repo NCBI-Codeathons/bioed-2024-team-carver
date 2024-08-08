@@ -62,7 +62,7 @@ Prior to starting the assignment,at any level, teachers can show this 50 second 
 This video provides some insight into the symptoms of Sickle Cell Disease, as well as the possibility for a treatment based on a mutation in a second gene (fetal hemoglobin):\
 [HHMI Biointeractive Video: A Genetic Treatment for Sickle Cell Disease](https://www.biointeractive.org/classroom-resources/genetic-treatment-sickle-cell-disease)
 
-[Teacher Handout (9th/10th Grade Basic Assignment)](https://github.com/NCBI-Codeathons/bioed-2024-team-carver/blob/f8e158ba5a1ee75a8ca3afff655f542d4e9a27ec/curriculum_materials/9-10%20Biology/Teacher%20Instructions%20%26%20Key%20-%20Intro%20Bio%20-%20reduced.pdf\)\
+[Teacher Handout (9th/10th Grade Basic Assignment)](https://github.com/NCBI-Codeathons/bioed-2024-team-carver/blob/f8e158ba5a1ee75a8ca3afff655f542d4e9a27ec/curriculum_materials/9-10%20Biology/Teacher%20Instructions%20%26%20Key%20-%20Intro%20Bio%20-%20reduced.pdf)\
 [Student Handout (9th/10th Grade Basic Assignment](https://github.com/NCBI-Codeathons/bioed-2024-team-carver/blob/591b2a4ef9a56f39c06066bdbb53c26160b09cbb/curriculum_materials/9-10%20Biology/Student%20Handout%20-%20Intro%20Bio%20-%20reduced.pdf)
 
 # $\color{Cerulean}{Assessments:}$
