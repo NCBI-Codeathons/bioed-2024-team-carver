@@ -63,7 +63,7 @@ This video provides some insight into the symptoms of Sickle Cell Disease, as we
 [HHMI Biointeractive Video: A Genetic Treatment for Sickle Cell Disease](https://www.biointeractive.org/classroom-resources/genetic-treatment-sickle-cell-disease)
 
 Teacher Instructions\
-Student Handouts
+[Student Handout (9th/10th Grade Basic Assignment](https://github.com/NCBI-Codeathons/bioed-2024-team-carver/blob/591b2a4ef9a56f39c06066bdbb53c26160b09cbb/curriculum_materials/9-10%20Biology/Student%20Handout%20-%20Intro%20Bio%20-%20reduced.pdf))
 
 # $\color{Cerulean}{Assessments:}$
 The assignment itself is essentially an assessment - if a student can complete the assignment, then the student is demontrating that he/she/they know how to transcribe and translate a DNA sequence. Additionally, they show proficiency in using a codon chart. Finally, the student is demonstrating that he/she/they know and can apply the knowledge of the different types of mutations found in DNA sequences, as well the basic impact of each of those mutations.
