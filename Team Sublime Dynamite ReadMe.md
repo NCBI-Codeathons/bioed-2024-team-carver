@@ -56,6 +56,10 @@
 ~use genetic sequences to produce mRNA sequences and resulting amino acid sequences\
 
 # $\color{Aquamarine}{Course\ Materials}$
+Prior to starting the assignment,at any level, teachers can show this 50 second video that shows what happens to hemoglobin when the Sickle Cell mutation is present:\
+[WEHI TV: Hemoglobin & Sickle Cell Anemia]([https://github.com/lifeparticle/Markdown-Cheatsheet](https://www.wehi.edu.au/wehi-tv/haemoglobin-and-sickle-cell-anaemia/)\
+
+
 $\color{Aquamarine}{Example\ of\ the\ database\ (HBB\ sequence\ separated\ into\ codons):}$
 ![image](https://github.com/user-attachments/assets/bf3059f5-d332-4a98-8a47-fa72dab62a7d)
 
