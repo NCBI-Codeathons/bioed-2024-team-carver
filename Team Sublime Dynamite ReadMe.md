@@ -71,7 +71,10 @@ This video provides some insight into the symptoms of Sickle Cell Disease, as we
 The assignment itself is essentially an assessment - if a student can complete the assignment, then the student is demontrating that he/she/they know how to transcribe and translate a DNA sequence. Additionally, they show proficiency in using a codon chart. Finally, the student is demonstrating that he/she/they know and can apply the knowledge of the different types of mutations found in DNA sequences, as well the basic impact of each of those mutations.
 
 # $\color{ProcessBlue}{Future\ Work:}$
-TBD
+Future Work Possibilites for the 9th/10th Grade Assignments:\
+- Making corresponding protein sequences for the same mutated HBB genes, so that students can run a Protein BLAST and then compare amino acid sequences\
+- Adding resources so that students can visualize 3D structures from the HBB protein with the mutations they analyzed.
+
 
 # NCBI Codeathon Disclaimer
 This project was created as part of the BioEd Summit Curricula-thon, a week-long event focused on collaborative development of data-driven learning experiences. While we encourage you to explore and adapt this project, please be aware that NCBI does not provide ongoing support for it.
