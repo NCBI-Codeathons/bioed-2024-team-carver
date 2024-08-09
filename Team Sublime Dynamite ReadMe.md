@@ -58,9 +58,9 @@ This video provides some insight into the symptoms of Sickle Cell Disease, as we
 # $\color{Cerulean}{Assessments:}$
 The assignment itself is essentially an assessment - if a student can complete the assignment, then the student is demontrating that he/she/they know how to transcribe and translate a DNA sequence. Additionally, they show proficiency in using a codon chart. Finally, the student is demonstrating that he/she/they know and can apply the knowledge of the different types of mutations found in DNA sequences, as well the basic impact of each of those mutations.
 
-Further options for assessment could be\
-- A class discussion\
-- The class activity in which the whole HBB gene is divided among the students in the class to create a physical representation of the amino acid chain\
+Further options for assessment could be:
+- A class discussion
+- The class activity in which the whole HBB gene is divided among the students in the class to create a physical representation of the amino acid chain
 - These two options are explained in the Background Information - Central Dogma slides  
 
 # $\color{ProcessBlue}{Future\ Work:}$
