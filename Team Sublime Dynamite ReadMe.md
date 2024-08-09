@@ -50,6 +50,7 @@
 [Student Handout: Different Genes - Different Trees](https://github.com/NCBI-Codeathons/bioed-2024-team-carver/blob/c988a9749fd645ad8ad32b818738ed585aa8b66e/curriculum_materials/AP%20Bio%20Lessons/Different%20Genes%2C%20Different%20Trees_%20Student%20Handout.pdf)
 
 <ins>Lesson 2 (9th/10th Grade Biology)</ins>
+
 Prior to starting the assignment, teachers can show this 50 second video that shows what happens to hemoglobin when the Sickle Cell mutation is present:\
 [WEHI TV: Hemoglobin & Sickle Cell Anemia](https://www.wehi.edu.au/wehi-tv/haemoglobin-and-sickle-cell-anaemia/)
 
