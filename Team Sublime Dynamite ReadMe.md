@@ -63,7 +63,7 @@ This video provides some insight into the symptoms of Sickle Cell Disease, as we
 [HHMI Biointeractive Video: A Genetic Treatment for Sickle Cell Disease](https://www.biointeractive.org/classroom-resources/genetic-treatment-sickle-cell-disease)
 
 **Some browsers will not allow you to preview the file; however, it should be possible to download the pdf file correctly**\
-[Background Teacher Information (slides) (9th/10th Grade)](https://github.com/NCBI-Codeathons/bioed-2024-team-carver/blob/f8e158ba5a1ee75a8ca3afff655f542d4e9a27ec/curriculum_materials/9-10%20Biology/Teacher%20Instructions%20%26%20Key%20-%20Intro%20Bio%20-%20reduced.pdf)\
+[Background Teacher Information (slides) (9th/10th Grade)](https://github.com/NCBI-Codeathons/bioed-2024-team-carver/blob/9e51555ea2904b04d0406b0e0ebd9da7e8dc9e49/curriculum_materials/9-10%20Biology/Background%20Information%20-%20Central%20Dogma_%20Teaching%20Students%20the%20Value%20of%20Using%20NCBI%20Tools%20like%20BLAST.pdf)\
 [Teacher Handout (9th/10th Grade Basic Assignment)](https://github.com/NCBI-Codeathons/bioed-2024-team-carver/blob/f8e158ba5a1ee75a8ca3afff655f542d4e9a27ec/curriculum_materials/9-10%20Biology/Teacher%20Instructions%20%26%20Key%20-%20Intro%20Bio%20-%20reduced.pdf)\
 [Teacher Handout (9th/10th Grade BLAST Assignment)](https://github.com/NCBI-Codeathons/bioed-2024-team-carver/blob/5f8c1ebde5625ba087a553c86665c27c845e3ce4/curriculum_materials/9-10%20Biology/Biology_%20Using%20NCBI%20Tools%20for%20High%20School%20Genetics%20Investigation%20-%20BLAST.pdf)\
 [Student Handout (9th/10th Grade Basic Assignment](https://github.com/NCBI-Codeathons/bioed-2024-team-carver/blob/734303fc85ea2a3f9a0b6be8f6f672600f0ec622/curriculum_materials/9-10%20Biology/Student%20Handout%20-%20Intro%20Bio.pdf)
