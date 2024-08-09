@@ -43,6 +43,7 @@
 ~utilize BLAST as a way to quickly compare sample sequences to a wild type sequence
 
 # $\color{Aquamarine}{Course\ Materials}$
+<ins>Lesson 1 (AP Biology (primarily))</ins>\
 
 <ins>Lesson 2 (9th/10th Grade Biology)</ins>\
 Prior to starting the assignment, teachers can show this 50 second video that shows what happens to hemoglobin when the Sickle Cell mutation is present:\
