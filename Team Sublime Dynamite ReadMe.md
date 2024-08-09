@@ -14,17 +14,12 @@
 - For AP Biology, the content used/learned:\
   Lesson 1: (Can be used instead of "AP Biology Investigative Lab 3: The Blast Lab")\
   *comparative genetics across species, how those differences affect evolutionary relationships
-
+  
+  For 9th/10th Grade Biology, the content used/learned:\
   Lesson 2: Using NCBI Tools for High School Genetics Investigation\
   *comparative genetics within humans (identifying location of mutations and types of mutations by comparing "wild type" genes with mutated genes)\
-  *predicting, describing, and understanding how variations and mutations can affect function\
-  *can be used for review of Central Dogma
-  
-- For 9th/10th Grade Biology, the content used/learned:\
-  Using NCBI Tools for High School Genetics Investigation\
-  *comparative genetics within humans (identifying location of mutations and types of mutations by comparing "wild type" genes with mutated genes)\
-  *predicting, describing, and understanding how variations and mutations can affect function\
-  *can be used for review of Central Dogma
+  *practice the processes of transcription and translation
+  *experience working with BLAST as a way to compare nucleotide sequences
 
   
 # $\color{JungleGreen}{NCBI\ Resources:}$
@@ -39,21 +34,13 @@
 ~identify differences in nucleotide sequences between different species\
 ~predict with reasonable (will depend on level of student and prior teaching) accuracy the impact of the differences on the phylogenetic tree
 
-<ins>Lesson 2 (AP):</ins>\
-~find nucleotide region with differences using NBCI resources\
-~identify differences in nucleotides (between wild type and mutated option)\
-~identify the type of mutation present in the genetic sequence\
-~predict impact of mutation &/or variation on function of resulting protein\
-~use genetic sequences to produce mRNA sequences and resulting amino acid sequences (at AP level, discuss introns/exons and use NCBI resources to determine final mRNA sequence)\
-~use NCBI resources to produce a 3D structure of the proteins\
-~use the information gleaned from comparing the genetic sequences to analyze sample clinical cases and identify potential causes of symptoms in patients
-
 <ins>9th/10th Grade Biology</ins>\
 ~find nucleotide region with differences using NBCI resources\
 ~identify differences in nucleotides (between wild type and mutated option)\
 ~identify the type of mutation present in the genetic sequence\
 ~predict impact of mutation &/or variation on function of resulting protein\
-~use genetic sequences to produce mRNA sequences and resulting amino acid sequences
+~use genetic sequences to produce mRNA sequences and resulting amino acid sequences\
+~utilize BLAST as a way to quickly compare sample sequences to a wild type sequence
 
 # $\color{Aquamarine}{Course\ Materials}$
 Prior to starting the assignment,at any level, teachers can show this 50 second video that shows what happens to hemoglobin when the Sickle Cell mutation is present:\
