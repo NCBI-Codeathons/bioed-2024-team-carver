@@ -67,7 +67,7 @@ This video provides some insight into the symptoms of Sickle Cell Disease, as we
 
 # $\color{Cerulean}{Assessments:}$
 Lesson 1: Different Genes - Different Trees
-- There are four analysis questions at the end of the activity.\
+- There are four analysis questions at the end of the activity.
 - Teachers can add any other questions that might be particularly related to their classes.
 
 Lesson 2: Using NCBI Resources\
