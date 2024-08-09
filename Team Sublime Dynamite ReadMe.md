@@ -43,7 +43,9 @@
 ~utilize BLAST as a way to quickly compare sample sequences to a wild type sequence
 
 # $\color{Aquamarine}{Course\ Materials}$
-Prior to starting the assignment,at any level, teachers can show this 50 second video that shows what happens to hemoglobin when the Sickle Cell mutation is present:\
+
+<ins>Lesson 2 (9th/10th Grade Biology)</ins>\
+Prior to starting the assignment, teachers can show this 50 second video that shows what happens to hemoglobin when the Sickle Cell mutation is present:\
 [WEHI TV: Hemoglobin & Sickle Cell Anemia](https://www.wehi.edu.au/wehi-tv/haemoglobin-and-sickle-cell-anaemia/)
 
 This video provides some insight into the symptoms of Sickle Cell Disease, as well as the possibility for a treatment based on a mutation in a second gene (fetal hemoglobin):\
