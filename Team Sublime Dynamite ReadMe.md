@@ -43,7 +43,7 @@
 ~utilize BLAST as a way to quickly compare sample sequences to a wild type sequence
 
 # $\color{Aquamarine}{Course\ Materials}$
-<ins>Lesson 1 (AP Biology)</ins>
+<h3><ins>Lesson 1 (AP Biology)</ins></h3>
 
 **Some browsers will not allow you to preview the file; however, it should be possible to download the pdf file correctly**\
 [Background Teacher Information (slides) Different Genes - Different Trees](https://github.com/NCBI-Codeathons/bioed-2024-team-carver/blob/66537fb9a7722140b105071f05d770f5110f0ba9/curriculum_materials/AP%20Bio%20Lessons/Different%20Genes_Different%20Trees.pdf)\
