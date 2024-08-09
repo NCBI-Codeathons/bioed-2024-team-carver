@@ -53,7 +53,7 @@
 ~identify differences in nucleotides (between wild type and mutated option)\
 ~identify the type of mutation present in the genetic sequence\
 ~predict impact of mutation &/or variation on function of resulting protein\
-~use genetic sequences to produce mRNA sequences and resulting amino acid sequences\
+~use genetic sequences to produce mRNA sequences and resulting amino acid sequences
 
 # $\color{Aquamarine}{Course\ Materials}$
 Prior to starting the assignment,at any level, teachers can show this 50 second video that shows what happens to hemoglobin when the Sickle Cell mutation is present:\
