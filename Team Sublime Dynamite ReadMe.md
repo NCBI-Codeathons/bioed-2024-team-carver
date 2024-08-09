@@ -28,9 +28,9 @@
 
   
 # $\color{JungleGreen}{NCBI\ Resources:}$
-- Clinvar (teacher only)
 - Blast
-- MedGen
+- Cobalt
+- Gene
 
 # $\color{Purple}{Learning\ Objectives:}$
 <h3>$\color{Purple}{Students\ Will\ Be\ Able\ To:}$ </h3>
