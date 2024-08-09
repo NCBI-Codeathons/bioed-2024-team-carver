@@ -70,7 +70,7 @@ Lesson 1: Different Genes - Different Trees
 - There are four analysis questions at the end of the activity.\
 - Teachers can add any other questions that might be particularly related to their classes.
 
-Lesson 2: Using NCBI Resources
+Lesson 2: Using NCBI Resources\
 The assignment itself is essentially an assessment - if a student can complete the assignment, then the student is demontrating that he/she/they know how to transcribe and translate a DNA sequence. Additionally, they show proficiency in using a codon chart. Finally, the student is demonstrating that he/she/they know and can apply the knowledge of the different types of mutations found in DNA sequences, as well the basic impact of each of those mutations.
 
 Further options for assessment could be:
