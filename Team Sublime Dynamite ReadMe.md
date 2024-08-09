@@ -15,7 +15,7 @@
   Lesson 1: (Can be used instead of "AP Biology Investigative Lab 3: The Blast Lab")\
   *comparative genetics across species, how those differences affect evolutionary relationships
   
-  For 9th/10th Grade Biology, the content used/learned:\
+- For 9th/10th Grade Biology, the content used/learned:\
   Lesson 2: Using NCBI Tools for High School Genetics Investigation\
   *comparative genetics within humans (identifying location of mutations and types of mutations by comparing "wild type" genes with mutated genes)\
   *practice the processes of transcription and translation
