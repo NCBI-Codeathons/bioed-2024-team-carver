@@ -46,7 +46,9 @@
 <ins>Lesson 1 (AP Biology)</ins>\
 
 **Some browsers will not allow you to preview the file; however, it should be possible to download the pdf file correctly**\
-[Background Teacher Information (slides) Different Genes - Different Trees](https://github.com/NCBI-Codeathons/bioed-2024-team-carver/blob/9e51555ea2904b04d0406b0e0ebd9da7e8dc9e49/curriculum_materials/9-10%20Biology/Background%20Information%20-%20Central%20Dogma_%20Teaching%20Students%20the%20Value%20of%20Using%20NCBI%20Tools%20like%20BLAST.pdf)\
+[Background Teacher Information (slides) Different Genes - Different Trees](https://github.com/NCBI-Codeathons/bioed-2024-team-carver/blob/66537fb9a7722140b105071f05d770f5110f0ba9/curriculum_materials/AP%20Bio%20Lessons/Different%20Genes_Different%20Trees.pdf)\
+[Student Handout: Different Genes - Different Trees](https://github.com/NCBI-Codeathons/bioed-2024-team-carver/blob/734303fc85ea2a3f9a0b6be8f6f672600f0ec622/curriculum_materials/9-10%20Biology/Student%20Handout%20-%20Intro%20Bio.pdf)\
+
 
 <ins>Lesson 2 (9th/10th Grade Biology)</ins>\
 Prior to starting the assignment, teachers can show this 50 second video that shows what happens to hemoglobin when the Sickle Cell mutation is present:\
