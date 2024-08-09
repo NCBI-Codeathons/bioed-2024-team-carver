@@ -78,6 +78,9 @@ Further options for assessment could be:
 - The class activity in which the whole HBB gene is divided among the students in the class to create a physical representation of the amino acid chain
 - These two options are explained in the Background Information - Central Dogma slides  
 
+# $\color{PineGreen}{Additional\ Resources}$
+- [HBB Google Sheets Document](https://docs.google.com/spreadsheets/d/1dTmK1K0opCfE_2uD90mXNTHv9H_AxJ1tRzr-sTAhI2k/edit?usp=sharing)
+  
 # $\color{ProcessBlue}{Future\ Work:}$
 Future Work Possibilites for the 9th/10th Grade Assignments:
 - Making corresponding protein sequences for the same mutated HBB genes, so that students can run a Protein BLAST and then compare amino acid sequences
